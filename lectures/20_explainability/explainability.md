@@ -201,13 +201,12 @@ More accepting a prediction if clear how it is made, e.g.,
 
 ![Trust model](trust.png)
 <!-- .element: class="plain" -->
-
+<!-- colend -->
 <!-- references -->
 
 Conceptual model of trust: R. C. Mayer, J. H. Davis, and F. D. Schoorman. An integrative model of organizational trust. Academy
 of Management Review, 20(3):709–734, July 1995.
 
-<!-- colend -->
 
 ----
 ## Actionable Insights to Improve Outcomes

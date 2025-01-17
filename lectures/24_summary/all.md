@@ -18,31 +18,26 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 # Today
 
-<!-- colstart -->
 (1)
 
 **Reflection on explainability**
 
 
-<!-- col -->
 
 (2)
 
 **Looking back at the semester**
 
-(400 slides in 40 min)
+(400 slides in 30 min)
 
-<!-- col -->
 (3)
 
 **Discussion of future of ML in Production**
 
-<!-- col -->
 (4)
 
 **Feedback for future semesters**
 
-<!-- colend -->
 
 
 ---
@@ -239,7 +234,7 @@ Nadia Nahar, Jenny Rowlett, Matthew Bray, Zahra Abba Omar, Xenophon Papademetris
 
 # Looking back at the semester
 
-(400 slides in 40 min)
+(400 slides in 30 min)
 
 ---
 <!-- .element: class="titleslide"  data-background="../_chapterimg/01_intro.jpg" -->
@@ -1631,7 +1626,6 @@ Identifying invariants requires domain knowledge of the problem!
 
 <div class="small">
 
-<!-- colstart -->
 
 * Derive input-output pairs from simulation, esp. in vision systems
 * Example: Vision for self-driving cars:
@@ -1639,11 +1633,11 @@ Identifying invariants requires domain knowledge of the problem!
 * Quality depends on quality of simulator: 
     * examples: render picture/video, synthesize speech, ... 
     * Less suitable where input-output relationship unknown, e.g., cancer prognosis, housing price prediction
-    <!-- col -->
-    ![Simulation is the inverse of prediction](simulationbased-testing.svg)
-    <!-- .element: class="plain" -->
 
-<!-- colend -->
+
+![Simulation is the inverse of prediction](simulationbased-testing.svg)
+<!-- .element: class="plain" -->
+
 
 </div>
 
@@ -2163,11 +2157,10 @@ Bernardi, Lucas, et al. "150 successful machine learning models: 6 lessons learn
 
 
 ----
+## AB Experiments
 
-<!-- colstart -->
 ![A/B experiment at Bing](kohavi-bing-search.jpg)
 
-<!-- col -->
 <div class="smallish">
 
 ## Bing Experiment
@@ -2187,7 +2180,6 @@ Bernardi, Lucas, et al. "150 successful machine learning models: 6 lessons learn
 From: Kohavi, Ron, Diane Tang, and Ya Xu. "[Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://bookshop.org/books/trustworthy-online-controlled-experiments-a-practical-guide-to-a-b-testing/9781108724265)."  2020.
 
 </div>
-<!-- colend -->
 
 
 ----
@@ -3398,7 +3390,6 @@ Notes: Although dated, the key idea is still essential -- think and plan before 
 <!-- col -->
 ![Scrum Process](scrum.svg)
 
-<!-- references_ -->
 (CC BY-SA 4.0, Lakeworks)
 <!-- colend -->
 
@@ -3461,12 +3452,9 @@ Sculley, David, et al. [Hidden technical debt in machine learning systems](http:
 
 
 ----
-
-<!-- colstart -->
+## Ethics
 
 ![Martin Shkreli](Martin_Shkreli_2016.jpg)
-
-<!-- col -->
 
 <div class="smallish">
 
@@ -3475,7 +3463,6 @@ Sculley, David, et al. [Hidden technical debt in machine learning systems](http:
 "*I could have raised it higher and made more profits for our shareholders. Which is my primary duty.*" -- Martin Shkreli
 
 </div>
-<!-- colend -->
 
 Note: Image source: https://en.wikipedia.org/wiki/Martin_Shkreli#/media/File:Martin_Shkreli_2016.jpg
 
@@ -4517,31 +4504,26 @@ As a group, tagging members, post to `#lecture`:
 ---
 # Today
 
-<!-- colstart -->
 (1)
 
 **Reflection on explainability**
 
 
-<!-- col -->
 
 (2)
 
 **Looking back at the semester**
 
-(400 slides in 40 min)
+(400 slides in 30 min)
 
-<!-- col -->
 (3)
 
 **Discussion of future of ML in Production**
 
-<!-- col -->
 (4)
 
 **Feedback for future semesters**
 
-<!-- colend -->
 
 
 ---

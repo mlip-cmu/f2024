@@ -20,19 +20,15 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 [Homework I4](https://github.com/mlip-cmu/f2024/blob/main/assignments/I4_explainability.md) to be released next week; 1 week assignment, due Nov 25
 
-<!-- colstart -->
 
 ![aeye health commercial tool](https://www.optomed.com/wp-content/uploads/2020/09/News-postsimage.jpg)
 
-<!-- col -->
 
 ![diabetic retinopathy, eye photo](diabetic_retinopathy.png)
 
-<!-- col -->
 
 ![smartphone with lense attached](diabetic_retinopathy_lens.jpg)
 
-<!-- colend -->
 
 ----
 ## Research in this Course (in I4)
@@ -164,18 +160,12 @@ As we will see, different fairness metrics reflect different fairness goals, dif
 
 * What is the goal of the system? What benefits does it provide and to
   whom?
-  <!-- .element: class="fragment" -->
 * Who are the stakeholders of the system? What are the stakeholders’ views or expectations on fairness and where do they conflict? Are we trying to achieve fairness based on equality or equity? 
-<!-- .element: class="fragment" -->
 * What subpopulations (including minority groups) may be using or be affected by the system? What types of harms can the system cause with discrimination?
-<!-- .element: class="fragment" -->
 * Does fairness undermine any other goals of the system (e.g., accuracy, profits, time to release)?
-<!-- .element: class="fragment" -->
 * Are there legal anti-discrimination requirements to consider? Are
   there societal expectations about ethics w.r.t. to this product? What is the activist position?
-<!-- .element: class="fragment" -->
 * ...
-<!-- .element: class="fragment" -->
 
 </div>
 
@@ -566,7 +556,6 @@ _Bias in Online Freelance Marketplaces_, Hannak et al., CSCW (2017).
   population?
   * If not, collect more data to achieve this
 * Address under- & over-representation issues
-<!-- .element: class="fragment" -->
 	* Ensure sufficient amount of data for all groups to avoid being
 	treated as "outliers" by ML
 	* Also avoid over-representation of certain groups (e.g.,
@@ -579,10 +568,8 @@ _Fairness-aware Machine Learning_, Bennett et al., WSDM Tutorial (2019).
 ## Fairness-Aware Data Collection
 
 * Data augmentation: Synthesize data for minority groups to reduce under-representation
-  <!-- .element: class="fragment" -->
   * Observed: "He is a doctor" -> synthesize "She is a doctor"
 * Model auditing for better data collection
-  <!-- .element: class="fragment" -->
   * Evaluate accuracy across different groups
   * Collect more data for groups with highest error rates 
 	

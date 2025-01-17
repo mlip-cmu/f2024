@@ -151,7 +151,6 @@ Eslami, Motahhare, et al. [I always assumed that I wasn't really that close to [
 
 <!-- colstart -->
 ![Positive example](https://pair.withgoogle.com/assets/ET3_aim-for.png)<!-- .element: style="width:300px" -->
-<!-- col -->
 ![Negative example](https://pair.withgoogle.com/assets/ET3_avoid.png)<!-- .element: style="width:300px" -->
 <!-- col -->
 
@@ -171,7 +170,6 @@ Source:
 ![Positive example](https://pair.withgoogle.com/assets/ET1_aim-for.png)<!-- .element: style="width:300px" -->
 
 
-<!-- col -->
 ![Negative example](https://pair.withgoogle.com/assets/ET1_avoid.png)<!-- .element: style="width:300px" -->
 <!-- col -->
 

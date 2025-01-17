@@ -90,6 +90,7 @@ Matthews. "Algorithmic Accountability: A Primer", Data & Society
 "*I could have raised it higher and made more profits for our shareholders. Which is my primary duty.*" -- Martin Shkreli
 
 </div>
+
 <!-- colend -->
 
 Note: Image source: https://en.wikipedia.org/wiki/Martin_Shkreli#/media/File:Martin_Shkreli_2016.jpg

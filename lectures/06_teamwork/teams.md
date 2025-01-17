@@ -398,9 +398,9 @@ Pick one or two of the scenarios (or another concrete problem that one team memb
 
 As a team, tagging team members, post to `#lecture`:
 
-> 1. Brief problem description 
-> 2. What to do to avoid it in the first place
-> 3. What to do when it occurs anyway
+1. Brief problem description 
+2. What to do to avoid it in the first place
+3. What to do when it occurs anyway
 
 
 ---

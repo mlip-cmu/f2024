@@ -172,8 +172,7 @@ From https://openai.com/blog/dall-e/
 </div>
 
 ---
-# Model-Centric vs 
-# System-Wide Focus
+# Model-Centric vs System-Wide Focus
 
 ----
 ## Traditional Model Focus (Data Science)
@@ -480,7 +479,6 @@ Start understanding the **requirements** of the system and its components
 
 <!-- colstart -->
 
-<div class="small">
 
 * **Organizational objectives:** Innate/overall goals of the organization
 * **System goals:** Goals of the software system/product/feature to be built
@@ -491,7 +489,6 @@ Start understanding the **requirements** of the system and its components
 
 *Ideally, these goals should be aligned with each other*
 
-</div>
 
 <!-- col -->
 
@@ -506,7 +503,6 @@ Start understanding the **requirements** of the system and its components
 ----
 ## Organizational Goals
 
-<div class="smallish">
 
 *Innate/overall goals of the organization*
 
@@ -520,10 +516,8 @@ Start understanding the **requirements** of the system and its components
 
 **Implication: Accurate ML models themselves are not the ultimate goal!**
 
-**ML may only indirectly influence such organizational
-  objectives; influence is often hard to quantify; lagging measures**
+ML may only indirectly influence such organizational objectives; influence is often hard to quantify; lagging measures
 
-</div>
 
 ----
 ## Leading Indicators
@@ -546,6 +540,8 @@ Examples:
 Caveats
   * Often indirect, proxy measures
   * Can be misleading (e.g., more daily active users => higher profits?)
+
+.
 
 </div>
 
@@ -864,7 +860,7 @@ Similar to safety, many other qualities should be discussed at model **and** sys
     - Understand dynamics, be aware of feedback loops, actions have effects
 * Understand how humans interact with the system
 
-> A system is a set of inter-related components that work together in a particular environment to perform whatever functions are required to achieve the system's objective -- Donella Meadows
+A system is a set of inter-related components that work together in a particular environment to perform whatever functions are required to achieve the system's objective -- Donella Meadows
 
 </div>
 

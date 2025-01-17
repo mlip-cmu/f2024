@@ -77,7 +77,8 @@ Idea: Let's commercialize the idea and sell it to end users or music producers.
 
 
 ----
-[![Suno Screenshot](suno.png)](https://suno.com)
+
+![Suno Screenshot](suno.png)]
 
 ----
 
@@ -208,6 +209,7 @@ Notes: Highlights challenging fragments. Can see what users fix inplace to corre
 * How can we debug and fix problems? How quickly?
 
 </div>
+
 ----
 <div class="small">
 
@@ -227,6 +229,7 @@ Notes: Highlights challenging fragments. Can see what users fix inplace to corre
 * Can we get better the longer a person talks? Should we then go back and reanalyze the beginning? Will this benefit the next upload as well?
 
 </div>
+
 ----
 <div class="small">
 

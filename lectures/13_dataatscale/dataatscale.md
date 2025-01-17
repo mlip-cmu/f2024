@@ -89,13 +89,11 @@ Individual requests (low/high volume) or large datasets?
 ----
 ## Scaling Computations
 
-<!-- colstart -->
 Efficent Algorithms
-<!-- col -->
+
 Faster Machines
-<!-- col -->
+
 More Machines
-<!-- colend -->
 
 ----
 ## Distributed Everything

@@ -1121,10 +1121,10 @@ AFTER, WRONG, INVALID, INCOMPLETE, PERTURBED, and INCAPABLE.
 
 Using HAZOP: As a group answer in `#lecture`, tagging group members:
 
-> * What is the specification of the perception component? 
-> * What are possible deviations from the specification?
-> * What are potential hazards resulting from these deviations?
-> * What possible mitigations would you consider? (e.g., human in the loop, undoable actions, guardrails, mistake detection and recovery, containment)
+* What is the specification of the perception component? 
+* What are possible deviations from the specification?
+* What are potential hazards resulting from these deviations?
+* What possible mitigations would you consider? (e.g., human in the loop, undoable actions, guardrails, mistake detection and recovery, containment)
 
 ----
 ## HAZOP: Benefits & Limitations

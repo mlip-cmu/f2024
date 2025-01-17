@@ -1106,7 +1106,9 @@ Will not randomly sample from distribution of all days
 <!-- discussion -->
 
 Example: [Adversarial Nibbler](redteam_nibbler.png)
+
 ----
+
 # Audits and Red Teaming
 
 <!-- colstart -->

@@ -241,9 +241,9 @@ Discuss how to collect telemetry (manual/crowd-source labeling, wait and see, as
 * Back-right: Wordpress: Profanity filter to moderate blog posts
 
 As a group post to `#lecture` and tag team members:
-> * Quality metric:
-> * Data to collect:
-> * Operationalization:
+ * Quality metric:
+ * Data to collect:
+ * Operationalization:
 
 </div>
 
@@ -499,7 +499,6 @@ Scenarios:
 
 ![A/B test example](ab-groove.jpg)<!-- .element:  style="width:1100px" -->
 
-<!-- colend -->
 
 Notes: Usage observable online, telemetry allows testing in production.  Picture source: https://www.designforfounders.com/ab-testing-examples/
 
@@ -532,6 +531,7 @@ Notes: Usage observable online, telemetry allows testing in production.  Picture
 From: Kohavi, Ron, Diane Tang, and Ya Xu. "[Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://bookshop.org/books/trustworthy-online-controlled-experiments-a-practical-guide-to-a-b-testing/9781108724265)."  2020.
 
 </div>
+
 <!-- colend -->
 
 

@@ -499,10 +499,9 @@ Individually, vote in `#lecture` slack:
 [![Experimental results showing incremental accuracy improvement](accuracy-improvements.png)](accuracy-improvements.png)
 <!-- col -->
 ![Scrum Process](scrum.svg)
-
+<!-- colend -->
 <!-- references_ -->
 (CC BY-SA 4.0, Lakeworks)
-<!-- colend -->
 
 Note: There is similarity in that there is an iterative process,
 but the idea is different and the process model seems mostly orthogonal

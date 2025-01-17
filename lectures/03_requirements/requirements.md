@@ -234,8 +234,7 @@ Requirements & Design: **Think before coding**
 </div>
 
 ----
-## The World vs The Machine 
-## (Environment vs Software)
+## The World vs The Machine (Environment vs Software)
 
 ![machine-world](worldvsmachine.svg)
 <!-- .element: class="stretch plain" -->
@@ -624,7 +623,7 @@ Start creating a list of all possible stakeholders
   * Use checklists to consider qualities (usability, privacy, latency, ...)
 
 
-**What would you ask in lane keeping software? In fall detection software? In college admissions software?**
+What would you ask in lane keeping software? In fall detection software? In college admissions software?
 
 ----
 ## ML Prototyping: Wizard of Oz

@@ -755,7 +755,7 @@ Pictures: https://pixabay.com/photos/lost-places-panzer-wreck-metal-3907364/, ht
 ----
 ## Separate Training and Validation Data
 
-<span class="smallish">
+<class class="smallish">
 
 Always test for generalization on *unseen* validation data (independently sampled, typically from the same distriution)
 
@@ -772,7 +772,7 @@ accuracy_valid = accuracy(model, valid_xs, valid_ys)
 
 $\textit{accuracy\_train} >> \textit{accuracy\_valid}$ = sign of overfitting
 
-</span>
+</class>
 
 ----
 
@@ -794,10 +794,11 @@ Typically adjust degrees of freedom during model learning to balance between ove
 <!-- col -->
 ![Overfitting example](overfitting.png)
 
+<!-- colend -->
+
 <!-- references_ -->
 (CC SA 4.0 by [Ghiles](https://en.wikipedia.org/wiki/File:Overfitted_Data.png))
 
-<!-- colend -->
 
 ----
 ## Detecting Overfitting
@@ -1019,7 +1020,6 @@ Evaluate the quality and representativeness of your test data (How?)
 
 Production data is good test data, **but unlabeled...**
 
-*
  
 *Monitoring and continuous data collection important!* More later
 
